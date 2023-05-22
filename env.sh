@@ -1,5 +1,5 @@
 # path init
-_HOME=`pwd`
+_HOME=$(pwd)
 
 #do
-source ./shell_script/scripts.sh
+source ${_HOME}/shell_script/scripts.sh
